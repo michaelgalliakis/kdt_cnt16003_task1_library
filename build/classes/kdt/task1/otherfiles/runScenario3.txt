@@ -1,0 +1,261 @@
+Library * * * TEI of Athens, by P.M.G (CNT16003)
+###Εμφάνιση 4 ατόμων που δημιουργήθηκαν για το σενάριο###
+*********** A Student ************
+Username: mgalliakis
+Name: Mike
+Surname: Gall
+Email[1]: mike@gmail.com
+Email[2]: mike@yahoo.gr
+Email[3]: cnt16003@teiath.gr
+Date Of Birth: 18/01/1991
+AM: cnt16003
+Faculty: STEF
+Department: Informatics
+*********** Student - End ************
+*********** A Staff ************
+Username: mgeorgatou
+Name: Maria
+Surname: Georgatou
+Date Of Birth: 01/11/2016
+Capacity: Secretarial Support
+*********** Staff - End ************
+*********** A Professor ************
+Username: itakoglou
+Name: Iordanis
+Surname: Takoglou
+Date Of Birth: 01/11/2016
+Specialty: IT
+Lesson[1]: Distributed Dystems
+Lesson[2]: Systems Databases
+*********** Professor - End ************
+*********** A Student ************
+Username: gvalonakis
+Name: Georgios
+Surname: Valonakis
+Date Of Birth: 01/11/2016
+AM: CS081019
+Faculty: SDO
+Department: Business Administrator
+*********** Student - End ************
+###########Εμφάνιση όλων των βιβλίων#########
+$$$$$$$$$$$$Begin$$$$$$$$$$
+Title: QoDGpDRQFtxSV  Gr TUtT
+ISBN: 8239681369362
+Pages: 705
+Author[1]: B oQrZev baXry
+Author[2]: ZEvDihTNcRgcqJLJzXzCnUAfqy g kexbf Wmnb
+Publisher: sgUHgDQ NvXZnUCQvgildSeBJApdwCUPxzJZS XW
+Category: physics
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 6
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+Title: HfhVoBekhharO
+ISBN: 8497010022869
+Pages: 793
+Author[1]: GAFCvVUNyYn ZFiwmDvdbj yTPCdSU
+Author[2]: EFQtbmXOavLP dPofhNIfmDgq
+Publisher: M AWqfAavF osaMIo 
+Category: computer
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 5
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+Title: CJxZkvqdrJBrCBW
+ISBN: 0226408563297
+Pages: 491
+Author[1]: RKlMVBTwdCJbiJbGoW BTtvjwQNm XgFTWqb G 
+Author[2]: XVaThSaVjSpRHR qVo yI Cl vk
+Publisher: UidhSktz bbeUBvPZzRC wgEpLWxXOBXo xyyJX  
+Category: physics
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 3
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+$$$$$$$$$$End$$$$$$$$$$
+####Ενδεικτικά κάποιες ενέργεις που γίνονται στην βιβλιοθήκη####
+&&&&(1) Δανείζεται το βιβλίο &&&&&
+Δόθηκε το αντιτυπό CBID:3 του βιβλίου [QoDGpDRQFtxSV  Gr TUtT] στον: gvalonakis(Student,Business Administrator).
+Το πήρε 01/11/2016 και πρέπει να το επιστρέψει στις [16/11/2016]
+&&&&(2) Πάει άλλος να δανειστεί το ίδιο βιβλίο &&&&&
+Προσοχή! Δεν είναι διαθέσιμο το αντιτυπό CBID:3 του βιβλίου [QoDGpDRQFtxSV  Gr TUtT] διότι έχει δωθεί στον gvalonakis(Student,Business Administrator).
+Υπάρχει όμως διαθέσιμο το ίδιο βιβλίο με κωδικό: CBID:0 στη τοποθεσία: {1, 4, 4}
+Υπάρχει όμως διαθέσιμο το ίδιο βιβλίο με κωδικό: CBID:1 στη τοποθεσία: {1, 4, 4}
+Υπάρχει όμως διαθέσιμο το ίδιο βιβλίο με κωδικό: CBID:2 στη τοποθεσία: {1, 4, 4}
+Υπάρχει όμως διαθέσιμο το ίδιο βιβλίο με κωδικό: CBID:4 στη τοποθεσία: {1, 4, 4}
+Υπάρχει όμως διαθέσιμο το ίδιο βιβλίο με κωδικό: CBID:5 στη τοποθεσία: {1, 4, 4}
+&&&&(3) Ο ίδιος χρήστης δανειζεται άλλο αντίτυπο του βιβλίου που ήθελε &&&&&
+Δόθηκε το αντιτυπό CBID:0 του βιβλίου [QoDGpDRQFtxSV  Gr TUtT] στον: mgalliakis(Student,Informatics).
+Το πήρε 01/11/2016 και πρέπει να το επιστρέψει στις [16/11/2016]
+&&&&(4) Επιστροφή βιβλίου &&&&&
+Επιστράφηκε το αντιτυπό CBID:3 του βιβλίου [QoDGpDRQFtxSV  Gr TUtT] από τον: gvalonakis(Student,Business Administrator).
+&&&&(5) Το επιστρεμένο αντίτυπο το δανείζεται νέος χρήστης &&&&&
+Δόθηκε το αντιτυπό CBID:3 του βιβλίου [QoDGpDRQFtxSV  Gr TUtT] στον: mgeorgatou(Staff,Secretarial Support).
+Το πήρε 01/11/2016 και πρέπει να το επιστρέψει στις [16/11/2016]
+&&&&(6) Άλλος ένας δανεισμός βιβλίου &&&&&
+Δόθηκε το αντιτυπό CBID:2 του βιβλίου [HfhVoBekhharO] στον: itakoglou(Professor,IT).
+Το πήρε 01/11/2016 και πρέπει να το επιστρέψει στις [16/11/2016]
+&&&&(7) Ακόμη ένας δανεισμός βιβλίου &&&&&
+Δόθηκε το αντιτυπό CBID:2 του βιβλίου [CJxZkvqdrJBrCBW] στον: mgeorgatou(Staff,Secretarial Support).
+Το πήρε 01/11/2016 και πρέπει να το επιστρέψει στις [16/11/2016]
+##Εμφάνιση αυτή τη φορά όλων των βιβλίων μαζί με τα αντίτυπα τους##
+$$$$$$$$$$$$Begin$$$$$$$$$$
+Title: QoDGpDRQFtxSV  Gr TUtT
+ISBN: 8239681369362
+Pages: 705
+Author[1]: B oQrZev baXry
+Author[2]: ZEvDihTNcRgcqJLJzXzCnUAfqy g kexbf Wmnb
+Publisher: sgUHgDQ NvXZnUCQvgildSeBJApdwCUPxzJZS XW
+Category: physics
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 6
+----------------------------------------------------------------
+ID Of Library: CBID:0
+Δεν είναι διαθέσιμο, το έχει πάρει ο : mgalliakis
+Date Loan: 01/11/2016
+Suggested Return Date: 16/11/2016
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:1
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:2
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:3
+Δεν είναι διαθέσιμο, το έχει πάρει ο : mgeorgatou
+Date Loan: 01/11/2016
+Suggested Return Date: 16/11/2016
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:4
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:5
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+Title: HfhVoBekhharO
+ISBN: 8497010022869
+Pages: 793
+Author[1]: GAFCvVUNyYn ZFiwmDvdbj yTPCdSU
+Author[2]: EFQtbmXOavLP dPofhNIfmDgq
+Publisher: M AWqfAavF osaMIo 
+Category: computer
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 5
+----------------------------------------------------------------
+ID Of Library: CBID:0
+Ειναι διαθέσιμο στο: {4, 1, 15} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:1
+Ειναι διαθέσιμο στο: {4, 1, 15} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:2
+Δεν είναι διαθέσιμο, το έχει πάρει ο : itakoglou
+Date Loan: 01/11/2016
+Suggested Return Date: 16/11/2016
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:3
+Ειναι διαθέσιμο στο: {4, 1, 15} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:4
+Ειναι διαθέσιμο στο: {4, 1, 15} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+Title: CJxZkvqdrJBrCBW
+ISBN: 0226408563297
+Pages: 491
+Author[1]: RKlMVBTwdCJbiJbGoW BTtvjwQNm XgFTWqb G 
+Author[2]: XVaThSaVjSpRHR qVo yI Cl vk
+Publisher: UidhSktz bbeUBvPZzRC wgEpLWxXOBXo xyyJX  
+Category: physics
+Release Date: 01/11/2016
+Αντίγραφα που υπάρχουν: 3
+----------------------------------------------------------------
+ID Of Library: CBID:0
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:1
+Ειναι διαθέσιμο στο: {1, 4, 4} σημείο της βιβλιοθήκης!
+----------------------------------------------------------------
+----------------------------------------------------------------
+ID Of Library: CBID:2
+Δεν είναι διαθέσιμο, το έχει πάρει ο : mgeorgatou
+Date Loan: 01/11/2016
+Suggested Return Date: 16/11/2016
+----------------------------------------------------------------
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+$$$$$$$$$$End$$$$$$$$$$
+###Εμφάνιση πάλι των 4 ατόμων που δημιουργήθηκαν για το σενάριο###
+*********** A Student ************
+Username: mgalliakis
+Name: Mike
+Surname: Gall
+Email[1]: mike@gmail.com
+Email[2]: mike@yahoo.gr
+Email[3]: cnt16003@teiath.gr
+Date Of Birth: 18/01/1991
+- - - - - - - - - - - - - - - - - -
+Has taken 1 book :
+B: [CBID:0], ISBN :[8239681369362]
+- - - - - - - - - - - - - - - - - -
+AM: cnt16003
+Faculty: STEF
+Department: Informatics
+*********** Student - End ************
+*********** A Staff ************
+Username: mgeorgatou
+Name: Maria
+Surname: Georgatou
+Date Of Birth: 01/11/2016
+- - - - - - - - - - - - - - - - - -
+Has taken 2 books :
+B: [CBID:3], ISBN :[8239681369362]
+B: [CBID:2], ISBN :[0226408563297]
+- - - - - - - - - - - - - - - - - -
+Capacity: Secretarial Support
+*********** Staff - End ************
+*********** A Professor ************
+Username: itakoglou
+Name: Iordanis
+Surname: Takoglou
+Date Of Birth: 01/11/2016
+- - - - - - - - - - - - - - - - - -
+Has taken 1 book :
+B: [CBID:2], ISBN :[8497010022869]
+- - - - - - - - - - - - - - - - - -
+Specialty: IT
+Lesson[1]: Distributed Dystems
+Lesson[2]: Systems Databases
+*********** Professor - End ************
+*********** A Student ************
+Username: gvalonakis
+Name: Georgios
+Surname: Valonakis
+Date Of Birth: 01/11/2016
+AM: CS081019
+Faculty: SDO
+Department: Business Administrator
+*********** Student - End ************
+^^^^^^^^Begin^^^^^^^^
+Στην τοποθεσία: {1, 4, 4} υπάρχουν διαθέσιμα τα εξής βιβλία:
+IDofLib: CBID:1, ISBN: 8239681369362
+IDofLib: CBID:2, ISBN: 8239681369362
+IDofLib: CBID:4, ISBN: 8239681369362
+IDofLib: CBID:5, ISBN: 8239681369362
+IDofLib: CBID:0, ISBN: 0226408563297
+IDofLib: CBID:1, ISBN: 0226408563297
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+Στην τοποθεσία: {4, 1, 15} υπάρχουν διαθέσιμα τα εξής βιβλία:
+IDofLib: CBID:0, ISBN: 8497010022869
+IDofLib: CBID:1, ISBN: 8497010022869
+IDofLib: CBID:3, ISBN: 8497010022869
+IDofLib: CBID:4, ISBN: 8497010022869
+$$$$$$$$$$$$-*-*-*-*-*-$$$$$$$$$$
+^^^^^^^^^End^^^^^^^^^
